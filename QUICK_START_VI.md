@@ -150,6 +150,7 @@ Sau khi cài đặt, thử các lệnh sau trong Claude Desktop:
 ## Tài liệu đầy đủ
 
 - 📖 [Hướng dẫn chi tiết tiếng Việt](./SETUP_VI.md)
+- 🪟 [Hướng dẫn cho Windows](./SETUP_WINDOWS.md)
 - 📖 [English Documentation](./README.md)
 - 📖 [中文文档](./README_ZH.md)
 - 🔧 [Advanced Configuration](./docs/usage/configuration/configuration.md)

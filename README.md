@@ -6,7 +6,7 @@
 
 English | [中文](./README_ZH.md) | [Tiếng Việt](./SETUP_VI.md)
 
-**Quick Setup Guides**: [🚀 Quick Start (Vietnamese)](./QUICK_START_VI.md) | [📖 Full Setup Guide (Vietnamese)](./SETUP_VI.md)
+**Quick Setup Guides**: [🚀 Quick Start (Vietnamese)](./QUICK_START_VI.md) | [📖 Full Setup Guide (Vietnamese)](./SETUP_VI.md) | [🪟 Windows Setup](./SETUP_WINDOWS.md)
 
 [Developer Documentation Retrieval MCP](./docs/recall-mcp/README.md)
 
